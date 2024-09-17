@@ -1,0 +1,40 @@
+.date {
+    font-size: 0.9em;
+    color: #ccc;
+}
+
+main {
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 3vw;
+    background-color: var(--secondary-color);
+}
+
+article {
+    color: var(--primary-color);
+}
+
+article p {
+    margin-bottom: 20px;
+}
+
+article img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-bottom: 20px;
+}
+
+.center-image{
+    display:block;
+    margin: 0 auto;
+}
+
+.right-image{
+    display:block;
+    margin-right: auto;
+}
+.left-image{
+    display:block;
+    margin-left: auto;
+}
